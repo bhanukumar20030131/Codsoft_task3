@@ -1,4 +1,4 @@
 # Codsoft_task3
 # Scientific_calculator
 <p>Level 1 Task 3</p>
-<a href="https://sai0029.github.io/Codsoft_taskno1/">Scientific_calculator</a>
+<a href="https://github.com/bhanukumar20030131/Codsoft_task3.git">Scientific_calculator</a>
