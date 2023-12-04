@@ -1,2 +1,4 @@
 # Codsoft_task3
-Web development  #Task 3 scientific_calculator@codsoft #codsoft #codsoft internship
+# Scientific_calculator
+<p>Level 1 Task 3</p>
+<a href="https://sai0029.github.io/Codsoft_taskno1/">Scientific_calculator</a>
